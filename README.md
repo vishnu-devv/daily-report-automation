@@ -1,5 +1,7 @@
 # 📊 Daily Report Automation System
 
+<img width="1408" height="768" alt="Daily Report Automation System" src="https://github.com/user-attachments/assets/56a34a59-6b90-40b5-9166-f7e61a198920" />
+
 A Python-based automation project that generates reports, processes data, and sends results via email automatically.
 
 ---
